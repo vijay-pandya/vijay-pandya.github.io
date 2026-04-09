@@ -1,2 +1,2 @@
-# vijaypandya.github.io
+# vijay-pandya.github.io
 Personal Portfolio Website
